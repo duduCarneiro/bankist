@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="./img/1 screen.jpg" alt="Size Limit CLI" width="738">
+  <img src="./img/1 screen.jpg" alt="Size Limit CLI" width="100%">
 </p>
 
 # 👨‍💻 About
@@ -30,24 +30,24 @@ you can access the app on: [the-bankist-app.herokuapp.com](https://the-bankist-a
 After the login (fake "log in" with user `js` and PIN `1111`), you can see your bank statement with all the recent movements there. At the top right, we have the overall balance of the account. Additionally, there are some summary data down there. On the right side we have three options that we can do. <br>
 We can transfer money to someone else, request a loan from the bank, and close the account.
 
-
+## 
 So, to illustrate, let's request a loan. Let's say the user needs 1,000 euros. They click on the arrow button in the green box and then after some time it is approved (the amount has to pass some criteria) and it appears as a deposit.
 
 <p align="center">
-  <img src="./img/2 screen.jpg" alt="Size Limit CLI" width="738">
+  <img src="./img/2 screen.jpg" alt="Size Limit CLI" width="100%">
 </p>
 
 Then, it is also possible to transfer money to another user. Let's say we want to transfer 5,000. Then, we have 5,000 less than we use to have.
 
 <p align="center">
-  <img src="./img/3 screen.jpg" alt="Size Limit CLI" width="738">
+  <img src="./img/3 screen.jpg" alt="Size Limit CLI" width="100%">
 </p>
 
 We can check out if the other user got their money. <br>
 Let's go to that other account (fake "log in" with user `jd` and PIN `2222`). And indeed here it is:
 
 <p align="center">
-  <img src="./img/4 screen.jpg" alt="Size Limit CLI" width="738">
+  <img src="./img/4 screen.jpg" alt="Size Limit CLI" width="100%">
 </p>
 
 ## ⚙️ Built with
