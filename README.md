@@ -31,45 +31,12 @@ After the login (fake "log in" with user `js` and PIN `1111`), you can see your 
 On the right side we have three options that we can do. We can transfer money to someone else, request a loan from the bank and close the account.
 
 
+So, to illustrate, let's request a loan. Let's say I need 1,000 euros. So I click here and then after some time it is approved (the amount has to pass some criteria) and it appears as a deposit.
+Then I can also transfer money to another user. Let's say I want to transfer 5,000. Then, I have 5,000 less than I use to have.
+We can check out if the other user got their money.
+Let's go to that other account (fake "log in" with user `jd` and PIN `2222`). And indeed here it is.
 
 
-So lets request a loan here.
-Lets say I need
-1,000 euros.
-So I click here
-and then after some time it is approved
-and it appears here as a deposit.
-Okay.
-Then I can also transfer money
-and there is a user called JD.
-And lets say I wanna transfer 5,000.
-So lets try that.
-And so now I have 5,000 less than I use to have.
-Finally we can also sort these here.
-So now they are sorted
-and now they are back to normal.
-And now lets go to that other account JD
-with the pin of
-2222
-and so lets check out if she has a deposit of 5,000.And indeed here it is.
-We also see that this account here is in US dollars
-and with the American formatting
-while the other one was in euros.
-And so that's something
-that we're gonna take care of in the next section.
-But in this section we will actually take care
-of displaying all of these movements,
-making these operations here possible,
-calculating the statistics as well as the current balance
-and so yah, I think it's gonna be a lot of fun
-and I'm really happy with this application.
-I think it looks amazing,
-it also looks like a real world use case
-and yah, overall
-this is a great project for training Arrays
-because we can do lots of these stuffthat you see here on the screen using Arrays.Great, so now that you have a feeling
-for how this application works
-lets take a look at a flow chart that I designed
 
 ## ⚙️ Built with
 
