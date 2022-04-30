@@ -10,7 +10,7 @@
 # 👨‍💻 About
 
 This project is part of the content of <a href="https://www.udemy.com/course/the-complete-javascript-course/" target="_blank">The Complete JavaScript Course by Jonas Schmedtman</a> available on Udemy 🔔! 
-<br> The fun of this game is to guess until when you can trust your luck rolling dice.
+<br> Bankist stands for minimalist banking and so this is why we built this kind of online bank interface with minimal design.
 
 ## 📚 Contents
 
