@@ -27,11 +27,15 @@ you can access the app on: [the-bankist-app.herokuapp.com](https://the-bankist-a
 
 ## ✍️ Usage and examples
 
-After the login (fake "log in" with user `js` and PIN `1111`), you can see your statment with all the recent movements there. At the top right, we have the overall balance of the account. Aditionaly, we have some summary data down there
-On the right side we have three options that we can do. We can transfer money to someone else, request a loan from the bank and close the account.
+After the login (fake "log in" with user `js` and PIN `1111`), you can see your bank statement with all the recent movements there. At the top right, we have the overall balance of the account. Additionally, we have some summary data down there On the right side we have three options that we can do. We can transfer money to someone else, request a loan from the bank, and close the account.
 
 
-So, to illustrate, let's request a loan. Let's say I need 1,000 euros. So I click here and then after some time it is approved (the amount has to pass some criteria) and it appears as a deposit.
+So, to illustrate, let's request a loan. Let's say I need 1,000 euros. I click on the arrow button in the green box and then after some time it is approved (the amount has to pass some criteria) and it appears as a deposit.
+
+<p align="center">
+  <img src="./img/1 screen.jpg" alt="Size Limit CLI" width="738">
+</p>
+
 Then I can also transfer money to another user. Let's say I want to transfer 5,000. Then, I have 5,000 less than I use to have.
 We can check out if the other user got their money.
 Let's go to that other account (fake "log in" with user `jd` and PIN `2222`). And indeed here it is.
