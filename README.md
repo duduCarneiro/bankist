@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻<br>Bankist
+  💻<br> The Bankist
 </h1>
 
 
@@ -10,7 +10,7 @@
 # 👨‍💻 About
 
 This project is part of the content of <a href="https://www.udemy.com/course/the-complete-javascript-course/" target="_blank">The Complete JavaScript Course by Jonas Schmedtman</a> available on Udemy 🔔! 
-<br> Bankist stands for minimalist banking and so this is why we built this kind of online bank interface with minimal design.
+<br> The Bankist stands for minimalist banking and so this is why we built this kind of online bank interface with minimal design.
 
 ## 📚 Contents
 
@@ -22,7 +22,7 @@ This project is part of the content of <a href="https://www.udemy.com/course/the
 
 ## 🚀 Get started
 
-you can access the app on: [souvenir-app-lw.herokuapp.com](https://souvenir-app-lw.herokuapp.com/) 🚙. <br>
+you can access the app on: [the-bankist-app.herokuapp.com](https://the-bankist-app.herokuapp.com/) 🚙. <br>
 
 
 ## ✍️ Usage and examples
