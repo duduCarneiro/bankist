@@ -27,20 +27,12 @@ you can access the app on: [souvenir-app-lw.herokuapp.com](https://souvenir-app-
 
 ## ✍️ Usage and examples
 
-After the login (Fake "log in" with user `ze@ninguem.com` and password `123456`), you can 
-and so you can just basically log in.
-So write JS and then the pin is 1111.
-And so Bankist stands for minimalist banking
-and so this is why we have this kind of banking.
-So an online bank interface.
-So we have all the movements here,
-we have the overall balance of the account up here.
-Then we have some summary data down here
-and here on the right side
-we have three options that we can do.
-So we can transfer money to someone else,
-we can requst a loan from the bank
-and we can close the account.
+After the login (fake "log in" with user `js` and PIN `1111`), you can see your statment with all the recent movements there. At the top right, we have the overall balance of the account. Aditionaly, we have some summary data down there
+On the right side we have three options that we can do. We can transfer money to someone else, request a loan from the bank and close the account.
+
+
+
+
 So lets request a loan here.
 Lets say I need
 1,000 euros.
@@ -92,6 +84,7 @@ lets take a look at a flow chart that I designed
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;no configs<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;no frameworks, pure JS<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;single-file executable<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp;non-persistant database<br>
 
 ## ⚠️ Credits
 
